@@ -9,7 +9,7 @@ Public repository of the code for web3privacy events webpages - [CC0 licensed](h
 - [ ] /fonts/            =  folder that holds all the fonts used by the website
 - [ ] /img/              =  folder that holds all images used by the website
 - [ ] index.html         =  what-you-code-is-what-you-get HTML
-- [ ] w3pevent.css       =  CSS file for index.html (needs refinement)
+- [ ] w3pevent.css       =  CSS file for index.html (needs refinement) - based off [Tailwind CSS](https://tailwindcss.com/)
 - [ ] w3pevent.js        =  JS file for index.html (need refinement)
 - [ ] favion.png         =  website favicon (should be placed in main folder of hosting)
 
