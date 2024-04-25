@@ -20,8 +20,8 @@ Public repository of the code for web3privacy events webpages - [CC0 licensed](h
 - To add an image you need the index.html to point to it /img/filename.png and add it to the /img/ with the same filename.
 
 ## TO DO 
-- [ ] import files into repository
-- [ ] deploy on dev instance server
+- [x] import files into repository
+- [x] deploy on dev instance server
 - [ ] test dev instance code
 - [ ] attempt to deploy on Github Pages?
 - [ ] create subdomain on web3privacy.info
