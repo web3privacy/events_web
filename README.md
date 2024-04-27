@@ -25,9 +25,12 @@ All code is [CC0 licensed](https://creativecommons.org/public-domain/cc0/) but t
 - [x] import files into repository
 - [x] deploy on dev instance server
 - [x] test dev instance code
-- [ ] create summit subdomain on web3privacy.info
+- [x] Deploy to Github Pages
+- [x] create subdomain on web3privacy.info
 - [ ] publish code to new subdomain
+- [ ] fix bg.webp source url
 - [ ] test live website code - all images and links, etc
+- [ ] test deployment Actions and automations in Github
 - [ ] launch for web3privacy summit 2
 - [ ] post-summit make code in this repo into a template for future events
 
@@ -35,5 +38,4 @@ All code is [CC0 licensed](https://creativecommons.org/public-domain/cc0/) but t
 ## FEATURE REQUESTS
 - [ ] donation mechanism coded into website
 - [ ] the 'ciphertext' js animation we used in [2022 summit webpage](https://prague22.web3privacy.info/)
-- [ ] Deploy to Github Pages?
 
