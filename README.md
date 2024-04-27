@@ -32,8 +32,8 @@ All code is [CC0 licensed](https://creativecommons.org/publicdomain/zero/1.0/), 
 - [x] create subdomain on web3privacy.info
 - [x] publish code to new subdomain
 - [x] fix bg.webp source url
-- [ ] test live website code - all images and links, etc
-- [ ] test deployment Actions and automations in Github
+- [x] test live website code - all images and links, etc
+- [x] test deployment Actions and automations in Github
 - [ ] launch for web3privacy summit 2
 - [ ] post-summit make code in this repo into a template for future events
 
