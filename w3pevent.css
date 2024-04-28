@@ -1,4 +1,4 @@
-/* v0.5 of CSS stylesheet for the Web3Privacy Events websites - source: https://github.com/web3privacy/events_web */
+/* v0.6 of CSS stylesheet for the Web3Privacy Events websites - source: https://github.com/web3privacy/events_web */
 /* major-mono-display-regular - latin */
 @font-face {
 	font-family: 'Major Mono Display';
@@ -590,13 +590,11 @@ person-item:hover .table-custom th {
 	font-size: 0.875rem;
 	line-height: 1.25rem;
 }
+.person-item: img {
+	filter: grayscale(100%);
+}
 .person-item:hover img {
 	filter: grayscale(0%);
-}
-person-item:hover .text-mild,
-	.person-item:hover .text-supermild {
-	text-opacity: 1;
-	color: #000000;
 }
 .eligible .text-mild {
 	text-opacity: 1;
@@ -650,15 +648,22 @@ person-item:hover .text-mild,
 	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 	transition-duration: 500ms;
 }
-.person-item:hover .speaker-name {
-	text-transform: lowercase;
-}
 .person-item {
 	filter: grayscale(100%);
 	cursor: pointer;
 	transition-property: all;
 	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 	transition-duration: 500ms;
+}
+.person-item:hover {
+	filter: grayscale(0%);
+	cursor: pointer;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+	transition-duration: 500ms;
+}
+.person-item:hover .speaker-name {
+	text-transform: lowercase;
 }
 .partner-item .partner-img {
 	filter: grayscale(100%);
