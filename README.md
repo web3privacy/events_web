@@ -24,7 +24,7 @@ Public repository of the code for web3privacy events webpages -  built with simp
 ## RELEASES
 
 - [v 0.9.5 - w3ps2 website pre-UX redesign](https://github.com/web3privacy/events_web/releases/tag/w3ps2)
-- [v 1.0.0 - w3ps2 website new-design](https://github.com/web3privacy/events_web/releases/tag/w3ps2)
+- [v 1.0.0 - w3ps2 website new-design](https://github.com/web3privacy/events_web/releases/tag/v1.0.0)
  
 
 ## TO DO 
