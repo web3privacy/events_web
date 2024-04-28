@@ -650,7 +650,7 @@ person-item:hover .table-custom th {
 .partner-item .partner-img {
 	filter: grayscale(0%);
 }
-.partner-item:hover .partner-img {
+.partner-item:hover {
 	filter: grayscale(25%);
 	cursor: help;
 	outline: white;
