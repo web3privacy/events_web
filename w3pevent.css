@@ -591,8 +591,7 @@ person-item:hover .table-custom th {
 	line-height: 1.25rem;
 }
 .person-item:hover img {
-	blur: blur(0);
-	filter: grayscale(0);
+	filter: grayscale(0%);
 }
 person-item:hover .text-mild,
 	.person-item:hover .text-supermild {
@@ -656,7 +655,6 @@ person-item:hover .text-mild,
 }
 .person-item {
 	cursor: pointer;
-	filter: grayscale(100%);
 	transition-property: all;
 	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 	transition-duration: 500ms;
@@ -665,7 +663,7 @@ person-item:hover .text-mild,
 	filter: grayscale(100%);
 }
 .partner-item:hover .partner-img {
-	filter: grayscale(0);
+	filter: grayscale(0%);
 }
 .partner-item .partner-text {
 	color: #FFFFFF;
@@ -683,9 +681,6 @@ person-item:hover .text-mild,
 .partner-item:hover .partner-text .text-mild {
 	color: #FFFFFF;
 	transition-duration: 1000ms;
-}
-.badge:hover .badge-image {
-	filter: grayscale(0);
 }
 .fixed {
 	position: fixed;
@@ -1085,10 +1080,6 @@ person-item:hover .text-mild,
 .no-underline {
 	text-decoration-line: none;
 }
-.grayscale {
-	filter: grayscale(100%);
-}
-
 .hover\:border-white:hover {
 	border-opacity: 1;
 	border-color: #FFFFFF;
