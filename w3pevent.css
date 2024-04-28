@@ -652,8 +652,10 @@ person-item:hover .table-custom th {
 }
 .partner-item:hover .partner-img {
 	filter: grayscale(20%);
-	border: 5px;
-	borde-color: white;
+	cursor: help;
+	border-width: 10px;
+	border-opacity: 1;
+	border-color: #FFFFFF;
 }
 .partner-item .partner-text {
 	color: #FFFFFF;
