@@ -651,11 +651,11 @@ person-item:hover .table-custom th {
 	filter: grayscale(0%);
 }
 .partner-item:hover .partner-img {
-	filter: grayscale(20%);
+	filter: grayscale(25%);
 	cursor: help;
-	border-width: 10px;
-	border-opacity: 1;
-	border-color: #FFFFFF;
+	outline: white;
+	outline-style: dashed;
+	outline-width: 3px;
 }
 .partner-item .partner-text {
 	color: #FFFFFF;
