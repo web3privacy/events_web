@@ -654,6 +654,7 @@ person-item:hover .text-mild,
 	text-transform: lowercase;
 }
 .person-item {
+	filter: grayscale(100%);
 	cursor: pointer;
 	transition-property: all;
 	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
