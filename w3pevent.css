@@ -1,4 +1,4 @@
-/* v0.6 of CSS stylesheet for the Web3Privacy Events websites - source: https://github.com/web3privacy/events_web */
+/* v0.7 of CSS stylesheet for the Web3Privacy Events websites - source: https://github.com/web3privacy/events_web */
 /* major-mono-display-regular - latin */
 @font-face {
 	font-family: 'Major Mono Display';
@@ -493,7 +493,7 @@ footer a:hover,
 .section-header {
 	margin-bottom: 2rem;
 	margin-top: 1.5rem;
-	display: inline-block;
+	text-align: center;
 	border-top-width: 2px;
 	padding-top: 1rem;
 	font-family: Major Mono Display, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
