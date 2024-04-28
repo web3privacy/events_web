@@ -1,4 +1,4 @@
-/* v0.2 of CSS stylesheet for the Web3Privacy Events websites - source: https://github.com/web3privacy/events_web */
+/* v0.3 of CSS stylesheet for the Web3Privacy Events websites - source: https://github.com/web3privacy/events_web */
 /* major-mono-display-regular - latin */
 @font-face {
 	font-family: 'Major Mono Display';
@@ -641,7 +641,7 @@ person-item:hover .text-mild,
 }
 .topic-item,
 	.topic-item .topic-header {
-	cursor: help;
+	cursor: pointer;
 	transition-property: all;
 	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 	transition-duration: 500ms;
@@ -678,7 +678,8 @@ person-item:hover .text-mild,
 	text-transform: lowercase;
 }
 .person-item {
-	cursor: help;
+	cursor: pointer;
+	filter: grayscale(80%);
 	transition-property: all;
 	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 	transition-duration: 500ms;
