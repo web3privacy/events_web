@@ -42,11 +42,13 @@ Public repository of the code for web3privacy events webpages -  built with simp
 ## FEATURE REQUESTS
 
 - [ ] donation mechanism coded into website
-- [ ] the 'ciphertext' js animation we used in [2022 summit webpage](https://prague22.web3privacy.info/)
-- [ ] 
+- [ ] the 'ciphertext' js animation used in [2022 summit webpage](https://prague22.web3privacy.info/)
+- [ ] new CSS written from scratch (w3pevent.css)
 
 ## LICENSE
 
 All HTML is licensed [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+
 The CSS used leverages TailwindCSS which is licensed under [MIT](https://github.com/tailwindlabs/tailwindcss/blob/next/LICENSE)
+
 Please note that even though the code is open-sourced - the names, content, and images within may well have their own licenses from their respective owners.
