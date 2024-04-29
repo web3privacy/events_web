@@ -600,8 +600,7 @@ person-item:hover .table-custom th {
 		background-image: url(/img/manifesto.webp);
 		background-repeat: no-repeat;
 		background-size: contain;
-		background-color: black;
-		background-position: center;
+		background-position-x: center;
 	}
 .faq-item:hover .desc {
 	color: #FFFFFF;
