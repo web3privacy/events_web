@@ -597,7 +597,7 @@ person-item:hover .table-custom th {
 		background-position: center;
 	}
 #manifesto {
-		background-image: url(/img/manifesto.webp);
+		background-image: url(/img/manifesto.png);
 		background-repeat: no-repeat;
 		background-size: contain;
 		background-color: black;
