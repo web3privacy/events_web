@@ -1,4 +1,4 @@
-/* v0.7 of CSS stylesheet for the Web3Privacy Events websites - source: https://github.com/web3privacy/events_web */
+/* v0.8 of CSS stylesheet for the Web3Privacy Events websites - source: https://github.com/web3privacy/events_web */
 /* major-mono-display-regular - latin */
 @font-face {
 	font-family: 'Major Mono Display';
@@ -593,6 +593,13 @@ person-item:hover .table-custom th {
 		background-image: url(/img/bg.webp);
 		background-repeat: no-repeat;
 		background-size: cover;
+		background-color: black;
+		background-position: center;
+	}
+#manifesto {
+		background-image: url(/img/manifesto.webp);
+		background-repeat: no-repeat;
+		background-size: contain;
 		background-color: black;
 		background-position: center;
 	}
