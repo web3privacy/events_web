@@ -41,6 +41,7 @@ Public repository of the code for web3privacy events webpages -  built with simp
 
 ## FEATURE REQUESTS
 
+- [ ] write new and cleaner HTML code to show a background image in header section of website (currently it leverages the CSS and puts the bg.webp image as background)
 - [ ] donation mechanism coded into website
 - [ ] the 'ciphertext' js animation used in [2022 summit webpage](https://prague22.web3privacy.info/)
 - [ ] new CSS written from scratch (w3pevent.css)
