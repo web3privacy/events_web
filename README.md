@@ -2,8 +2,6 @@
 
 Public repository of the code for web3privacy events webpages -  built with simple web-standard HTML and CSS
 
-**Please advise** at this time this code is currently being worked on for the Web3Privacy Summit 2 website
-
 ## CONTENTS
 
 - [ ] /fonts/            =  folder that holds all the fonts used by the website
@@ -14,36 +12,25 @@ Public repository of the code for web3privacy events webpages -  built with simp
 
 ## COMMENTS
 
-- This repository is automatically deployed on Github Pages and has it's own custom subdomain: [summit.web3privacy.info](https://summit.web3privacy.info/)
+- This repository is automatically deployed on Github Pages: [https://web3privacy.github.io/events_web]https://web3privacy.github.io/events_web/)
 - If you see something broken or needs improving, **fork the repo and submit a PR pleas**e
 - If you wish to request a new feature or improvements, open an **issue within this repo please**
 - All images used within the website should be in .png / .svg / .webp formats
-- To change an image on the website you need to either replace the file in /img/ with one named exactly as it is online (i.e. privacy.png)
 - To add a new image you need to edit the index.html to point to it and then add the actual to the /img/ folder in this repository with the same filename.
 
 ## RELEASES
 
 - [v 0.9.5 - w3ps2 website pre-UX redesign](https://github.com/web3privacy/events_web/releases/tag/w3ps2)
 - [v 1.0.0 - w3ps2 website new-design](https://github.com/web3privacy/events_web/releases/tag/v1.0.0)
- 
-
-## TO DO 
-
-- [x] import files into repository
-- [x] deploy on dev instance server
-- [x] Deploy to Github Pages
-- [x] create subdomain on web3privacy.info
-- [x] test live website code - all images and links, etc
-- [x] test deployment Actions and automations in Github
-- [x] launch for web3privacy summit 2
-- [ ] post-summit make code in this repo into a template for future events
+- [v 1.3.0 - summit 2024 edition code](https://github.com/web3privacy/events_web/releases/tag/v1.3.0)
+- [v 1.4.0 - Placeholder edition (ipsum-lorem)](https://github.com/web3privacy/events_web/releases/tag/v1.4.0)
 
 
 ## FEATURE REQUESTS
 
 - [ ] write new and cleaner HTML code to show a background image in header section of website (currently it leverages the CSS and puts the bg.webp image as background)
 - [ ] donation mechanism coded into website
-- [ ] the 'ciphertext' js animation used in [2022 summit webpage](https://prague22.web3privacy.info/)
+- [ ] include a 'ciphertext' js animation used in [2022 summit webpage](https://prague22.web3privacy.info/)
 - [ ] new CSS written from scratch (w3pevent.css)
 
 ## LICENSE
