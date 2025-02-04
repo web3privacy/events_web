@@ -12,7 +12,7 @@ Public repository of the code for web3privacy events webpages -  built with simp
 
 ## COMMENTS
 
-- This repository is automatically deployed on Github Pages: [https://web3privacy.github.io/events_web]https://web3privacy.github.io/events_web/)
+- This repository is automatically deployed on Github Pages: [https://web3privacy.github.io/events_web](https://web3privacy.github.io/events_web/)
 - If you see something broken or needs improving, **fork the repo and submit a PR pleas**e
 - If you wish to request a new feature or improvements, open an **issue within this repo please**
 - All images used within the website should be in .png / .svg / .webp formats
