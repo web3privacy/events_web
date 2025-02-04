@@ -1,6 +1,6 @@
 # events_web
 
-Public repository of the code for web3privacy events webpages -  built with simple web-standard HTML and CSS
+Forkable code for web3privacy event-specific websites - built with only HTML and CSS
 
 ## CONTENTS
 
